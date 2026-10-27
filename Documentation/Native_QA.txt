@@ -1,0 +1,46 @@
+Assembly open errors=0 warnings=128
+Component instances=31
+REFERENCE|OF_R4_Expander_to_Air_Condenser_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R4_Expander_to_Air_Condenser_DRAFT.SLDPRT
+TUBE|OF_R4_Expander_to_Air_Condenser_DRAFT-1|bodies=1|volume_m3=3.79256090748989E-05
+REFERENCE|OF_R5_Air_Condenser_to_Receiver_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R5_Air_Condenser_to_Receiver_DRAFT.SLDPRT
+TUBE|OF_R5_Air_Condenser_to_Receiver_DRAFT-1|bodies=1|volume_m3=7.64516137472613E-06
+REFERENCE|OF_Fan_guard_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Fan_guard_DRAFT.SLDPRT
+REFERENCE|OF_Condenser_mounts_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Condenser_mounts_DRAFT.SLDPRT
+REFERENCE|OF_Wall_mounted_Fan_PROVISIONAL-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Wall_mounted_Fan_PROVISIONAL.SLDPRT
+REFERENCE|OF_Heat_Exchanger_Seat_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Heat_Exchanger_Seat_DRAFT.SLDPRT
+REFERENCE|OF_Motor_MY1016_250W_APPROXIMATE-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Motor_MY1016_250W_APPROXIMATE.SLDPRT
+REFERENCE|OF_Receiver_Frigomec_RV030_1p10L_ENVELOPE-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Receiver_Frigomec_RV030_1p10L_ENVELOPE.SLDPRT
+REFERENCE|OF_Pump_Motor_Shelf_BLANK-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Pump_Motor_Shelf_BLANK.SLDPRT
+REFERENCE|OF_Gear_Pump_Riser_BLANK-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Gear_Pump_Riser_BLANK.SLDPRT
+REFERENCE|OF_Gear_Pump_0P1008_APPROXIMATE-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Gear_Pump_0P1008_APPROXIMATE.SLDPRT
+REFERENCE|OF_Air_Cooled_Refrigerant_Condenser_UNSELECTED-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Air_Cooled_Refrigerant_Condenser_UNSELECTED.SLDPRT
+REFERENCE|OF_Baseplate_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Baseplate_DRAFT.SLDPRT
+REFERENCE|OF_Generator_ENVELOPE_FROM_STL-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Generator_ENVELOPE_FROM_STL.SLDPRT
+REFERENCE|OF_Generator_Riser_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Generator_Riser_DRAFT.SLDPRT
+REFERENCE|OF_Expander-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Expander.SLDPRT
+REFERENCE|OF_Expander_Support_Blank_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Expander_Support_Blank_DRAFT.SLDPRT
+REFERENCE|OF_Expander_Support_Blank_DRAFT-2|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Expander_Support_Blank_DRAFT.SLDPRT
+REFERENCE|OF_R2_Gear_Pump_to_Evaporator_F1_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R2_Gear_Pump_to_Evaporator_F1_DRAFT.SLDPRT
+TUBE|OF_R2_Gear_Pump_to_Evaporator_F1_DRAFT-1|bodies=1|volume_m3=1.44625040020745E-05
+REFERENCE|OF_HX_Adapter_OD16_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_HX_Adapter_OD16_DRAFT.SLDPRT
+REFERENCE|OF_R1_Receiver_to_Gear_Pump_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R1_Receiver_to_Gear_Pump_DRAFT.SLDPRT
+TUBE|OF_R1_Receiver_to_Gear_Pump_DRAFT-1|bodies=1|volume_m3=8.1324540723257E-06
+REFERENCE|OF_R3_Evaporator_F2_to_Expander_In_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R3_Evaporator_F2_to_Expander_In_DRAFT.SLDPRT
+TUBE|OF_R3_Evaporator_F2_to_Expander_In_DRAFT-1|bodies=1|volume_m3=1.3873219690453E-05
+REFERENCE|OF_W1_Hot_Pump_to_Evaporator_W1_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_W1_Hot_Pump_to_Evaporator_W1_DRAFT.SLDPRT
+TUBE|OF_W1_Hot_Pump_to_Evaporator_W1_DRAFT-1|bodies=1|volume_m3=2.7028872874007E-05
+REFERENCE|OF_W2_Evaporator_W2_to_Hot_Reservoir_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_W2_Evaporator_W2_to_Hot_Reservoir_DRAFT.SLDPRT
+TUBE|OF_W2_Evaporator_W2_to_Hot_Reservoir_DRAFT-1|bodies=1|volume_m3=1.16543080075872E-05
+REFERENCE|OF_HX_Adapter_OD8_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_HX_Adapter_OD8_DRAFT.SLDPRT
+REFERENCE|OF_Hot_Water_Pump_amiciFlo30W_ENVELOPE-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Hot_Water_Pump_amiciFlo30W_ENVELOPE.SLDPRT
+REFERENCE|OF_HX_Adapter_OD12_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_HX_Adapter_OD12_DRAFT.SLDPRT
+REFERENCE|OF_Plate_Evaporator-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Plate_Evaporator.SLDPRT
+REFERENCE|OF_HX_Adapter_OD16_DRAFT-2|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_HX_Adapter_OD16_DRAFT.SLDPRT
+REFERENCE|OF_Condenser_Fan_Wall_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Condenser_Fan_Wall_DRAFT.SLDPRT
+WALL_BOX_M|-0.245|0|0.363|0.245|0.5|0.365
+REFERENCE|OF_Condenser_to_wall_Shroud_DRAFT-1|C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Condenser_to_wall_Shroud_DRAFT.SLDPRT
+Interferences=1
+CLASH_VOLUME_MM3|2010.61929829747
+CLASH_COMPONENT|OF_Generator_ENVELOPE_FROM_STL-1
+CLASH_COMPONENT|OF_Expander-1
+COMPLETE

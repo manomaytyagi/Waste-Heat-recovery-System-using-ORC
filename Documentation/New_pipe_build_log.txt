@@ -1,0 +1,15 @@
+Pipe Parts\OF_R1_Receiver_to_Gear_Pump_DRAFT SLDPRT 0
+Pipe Parts\OF_R1_Receiver_to_Gear_Pump_DRAFT STEP 0
+Pipe Parts\OF_R2_Gear_Pump_to_Evaporator_F1_DRAFT SLDPRT 0
+Pipe Parts\OF_R2_Gear_Pump_to_Evaporator_F1_DRAFT STEP 0
+Pipe Parts\OF_R3_Evaporator_F2_to_Expander_In_DRAFT SLDPRT 0
+Pipe Parts\OF_R3_Evaporator_F2_to_Expander_In_DRAFT STEP 0
+Pipe Parts\OF_W1_Hot_Pump_to_Evaporator_W1_DRAFT SLDPRT 0
+Pipe Parts\OF_W1_Hot_Pump_to_Evaporator_W1_DRAFT STEP 0
+Pipe Parts\OF_W2_Evaporator_W2_to_Hot_Reservoir_DRAFT SLDPRT 0
+Pipe Parts\OF_W2_Evaporator_W2_to_Hot_Reservoir_DRAFT STEP 0
+Pipe Parts\OF_R4_Expander_to_Air_Condenser_DRAFT SLDPRT 0
+Pipe Parts\OF_R4_Expander_to_Air_Condenser_DRAFT STEP 0
+Pipe Parts\OF_R5_Air_Condenser_to_Receiver_DRAFT SLDPRT 0
+Pipe Parts\OF_R5_Air_Condenser_to_Receiver_DRAFT STEP 0
+COMPLETE

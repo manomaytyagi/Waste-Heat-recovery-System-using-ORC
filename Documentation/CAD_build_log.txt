@@ -1,0 +1,95 @@
+Part STEP|Assembly Parts\OF_Baseplate_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Baseplate_DRAFT.SLDPRT
+Baseplate_DRAFT: -0.205,0.02,-0.23,0.205,0.026,0.23
+Part STEP|Components\OF_Generator_ENVELOPE_FROM_STL.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Generator_ENVELOPE_FROM_STL.SLDPRT
+Generator_ENVELOPE: -0.21,0.033,-0.06,-0.07,0.195,0.23
+Part STEP|Assembly Parts\OF_Generator_Riser_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Generator_Riser_DRAFT.SLDPRT
+Generator_Riser: -0.195,0.026,-0.04,-0.085,0.033,0.21
+Part STEP|Components\OF_Expander.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Expander.SLDPRT
+Expander: -0.2,0.065,-0.235,-0.08,0.193,-0.05
+Part STEP|Assembly Parts\OF_Expander_Support_Blank_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Expander_Support_Blank_DRAFT.SLDPRT
+Expander_Support_A: -0.2,0.026,-0.2125,-0.08,0.065,-0.1875
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Expander_Support_Blank_DRAFT.SLDPRT
+Expander_Support_B: -0.2,0.026,-0.1125,-0.08,0.065,-0.0875
+Part STEP|Components\OF_Plate_Evaporator.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Plate_Evaporator.SLDPRT
+Evaporator: 0.06,0.036,-0.22149996,0.18,0.334,-0.113
+Part STEP|Assembly Parts\OF_Heat_Exchanger_Seat_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Heat_Exchanger_Seat_DRAFT.SLDPRT
+Evaporator_Seat: 0.05,0.026,-0.2245,0.19,0.036,-0.1095
+Part STEP|Components\OF_Receiver_Frigomec_RV030_1p10L_ENVELOPE.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Receiver_Frigomec_RV030_1p10L_ENVELOPE.SLDPRT
+Liquid_Receiver_RV030: -0.0525,0.026,0.1275,0.0325,0.294,0.2125
+Part STEP|Components\OF_Gear_Pump_0P1008_APPROXIMATE.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Gear_Pump_0P1008_APPROXIMATE.SLDPRT
+Gear_Pump_0P1008: -0.19,0.245,-0.06,-0.09,0.337,0.065
+Part STEP|Components\OF_Motor_MY1016_250W_APPROXIMATE.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Motor_MY1016_250W_APPROXIMATE.SLDPRT
+Gear_Pump_Motor_MY1016: -0.192,0.2295,-0.2,-0.088,0.3405,-0.067
+Part STEP|Assembly Parts\OF_Pump_Motor_Shelf_BLANK.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Pump_Motor_Shelf_BLANK.SLDPRT
+Shelf_blank: -0.2,0.2235,-0.2,-0.08,0.2295,0.1
+Part STEP|Assembly Parts\OF_Gear_Pump_Riser_BLANK.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Gear_Pump_Riser_BLANK.SLDPRT
+Gear_pump_riser: -0.19,0.2295,-0.035,-0.09,0.245,0.075
+Part STEP|Components\OF_Hot_Water_Pump_amiciFlo30W_ENVELOPE.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Hot_Water_Pump_amiciFlo30W_ENVELOPE.SLDPRT
+Hot_water_pump_PENDING_TEMP_APPROVAL: 0.11,0.026,-0.025,0.194,0.129,0.079
+Part STEP|Pipe Parts\OF_R1_Receiver_to_Gear_Pump_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R1_Receiver_to_Gear_Pump_DRAFT.SLDPRT
+R1_Receiver_to_Gear_Pump: -0.144,0.294,-8.99999999999998E-03,0.014,0.354,0.174
+Part STEP|Pipe Parts\OF_R2_Gear_Pump_to_Evaporator_F1_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R2_Gear_Pump_to_Evaporator_F1_DRAFT.SLDPRT
+R2_Gear_Pump_to_Evaporator_F1: -0.144,0.06,-0.093,0.092,0.369,0.039
+Part STEP|Pipe Parts\OF_R3_Evaporator_F2_to_Expander_In_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R3_Evaporator_F2_to_Expander_In_DRAFT.SLDPRT
+R3_Evaporator_F2_to_Expander_In: -0.146,0.193,-0.137,0.094,0.312,-0.054
+Part STEP|Pipe Parts\OF_W1_Hot_Pump_to_Evaporator_W1_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_W1_Hot_Pump_to_Evaporator_W1_DRAFT.SLDPRT
+W1_Hot_Pump_to_Evaporator_W1: 0.144,0.129,-0.093,0.16,0.314,0.056
+Part STEP|Pipe Parts\OF_W2_Evaporator_W2_to_Hot_Reservoir_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_W2_Evaporator_W2_to_Hot_Reservoir_DRAFT.SLDPRT
+W2_Evaporator_W2_to_Hot_Reservoir: 0.144,0.056,-0.093,0.238,0.09,-0.042
+Part STEP|Pipe Parts\OF_HX_Adapter_OD8_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_HX_Adapter_OD8_DRAFT.SLDPRT
+HX_Adapter_OD8: 0.0738,0.0498,-0.113,0.1022,0.0782,-0.093
+Part STEP|Pipe Parts\OF_HX_Adapter_OD12_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_HX_Adapter_OD12_DRAFT.SLDPRT
+HX_Adapter_OD12: 0.0738,0.2918,-0.113,0.1022,0.3202,-0.093
+Part STEP|Pipe Parts\OF_HX_Adapter_OD16_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_HX_Adapter_OD16_DRAFT.SLDPRT
+HX_Adapter_OD16: 0.1378,0.2918,-0.113,0.1662,0.3202,-0.093
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_HX_Adapter_OD16_DRAFT.SLDPRT
+HX_Adapter_OD16: 0.1378,0.0498,-0.113,0.1662,0.0782,-0.093
+Part STEP|Assembly Parts\OF_Condenser_Fan_Wall_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Condenser_Fan_Wall_DRAFT.SLDPRT
+Condenser_Fan_Wall: -0.245,0,0.363,0.245,0.5,0.365
+Part STEP|Assembly Parts\OF_Condenser_to_wall_Shroud_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Condenser_to_wall_Shroud_DRAFT.SLDPRT
+Condenser_to_wall_Shroud_DRAFT: -0.225,0.04,0.32,0.225,0.445,0.363
+Part STEP|Components\OF_Wall_mounted_Fan_PROVISIONAL.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Wall_mounted_Fan_PROVISIONAL.SLDPRT
+Wall_mounted_Fan_PROVISIONAL: -0.175,0.075,0.365,0.175,0.425,0.43
+Part STEP|Assembly Parts\OF_Fan_guard_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Fan_guard_DRAFT.SLDPRT
+Fan_guard_DRAFT: -0.172,0.078,0.435,0.172,0.422,0.437
+Part STEP|Assembly Parts\OF_Condenser_mounts_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Assembly Parts\OF_Condenser_mounts_DRAFT.SLDPRT
+Condenser_mounts_DRAFT: -0.235,0.002,0.27,0.235,0.445,0.363
+Part STEP|Pipe Parts\OF_R4_Expander_to_Air_Condenser_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R4_Expander_to_Air_Condenser_DRAFT.SLDPRT
+R4_Expander_to_Air_Condenser: -0.149,0.193,-0.178,-0.046,0.429,0.255
+Part STEP|Pipe Parts\OF_R5_Air_Condenser_to_Receiver_DRAFT.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Pipe Parts\OF_R5_Air_Condenser_to_Receiver_DRAFT.SLDPRT
+R5_Air_Condenser_to_Receiver: -0.034,6.00000000000001E-02,0.166,-0.026,0.324,0.255
+Part STEP|Components\OF_Air_Cooled_Refrigerant_Condenser_UNSELECTED.SLDPRT|0
+REFERENCE C:\Users\Manomay\Documents\Codex\2026-10-01\why-in-the-guide-do-we\CAD Optimised Final\CAD Final\Components\OF_Air_Cooled_Refrigerant_Condenser_UNSELECTED.SLDPRT
+Air_Cooled_Refrigerant_Condenser_UNSELECTED: -0.225,0.04,0.255,0.225,0.445,0.32
+Assembly save=0
+Assembly STEP=0
+Image=0
+COMPLETE

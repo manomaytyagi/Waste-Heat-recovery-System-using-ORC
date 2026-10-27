@@ -1,0 +1,32 @@
+Instance,CAD file,X mm,Y mm,Z mm
+Baseplate_DRAFT,Assembly Parts\OF_Baseplate_DRAFT.SLDPRT,0.0,20.0,0.0
+Generator_ENVELOPE,Components\OF_Generator_ENVELOPE_FROM_STL.SLDPRT,-140.0,125.0,85.0
+Generator_Riser,Assembly Parts\OF_Generator_Riser_DRAFT.SLDPRT,-140.0,26.0,85.0
+Expander,Components\OF_Expander.SLDPRT,-140.0,125.0,-150.0
+Expander_Support_A,Assembly Parts\OF_Expander_Support_Blank_DRAFT.SLDPRT,-140.0,26.0,-200.0
+Expander_Support_B,Assembly Parts\OF_Expander_Support_Blank_DRAFT.SLDPRT,-140.0,26.0,-100.0
+Evaporator,Components\OF_Plate_Evaporator.SLDPRT,120.0,185.0,-140.0
+Evaporator_Seat,Assembly Parts\OF_Heat_Exchanger_Seat_DRAFT.SLDPRT,120.0,26.0,-167.0
+Liquid_Receiver_RV030,Components\OF_Receiver_Frigomec_RV030_1p10L_ENVELOPE.SLDPRT,-10.0,34.0,170.0
+Gear_Pump_0P1008,Components\OF_Gear_Pump_0P1008_APPROXIMATE.SLDPRT,-140.0,290.0,-30.0
+Gear_Pump_Motor_MY1016,Components\OF_Motor_MY1016_250W_APPROXIMATE.SLDPRT,-140.0,290.0,-200.0
+Shelf_blank,Assembly Parts\OF_Pump_Motor_Shelf_BLANK.SLDPRT,-140.0,223.5,-50.0
+Gear_pump_riser,Assembly Parts\OF_Gear_Pump_Riser_BLANK.SLDPRT,-140.0,229.5,20.0
+Hot_water_pump_PENDING_TEMP_APPROVAL,Components\OF_Hot_Water_Pump_amiciFlo30W_ENVELOPE.SLDPRT,152.0,26.0,25.0
+R1_Receiver_to_Gear_Pump,Pipe Parts\OF_R1_Receiver_to_Gear_Pump_DRAFT.SLDPRT,10.0,294.0,170.0
+R2_Gear_Pump_to_Evaporator_F1,Pipe Parts\OF_R2_Gear_Pump_to_Evaporator_F1_DRAFT.SLDPRT,-140.0,337.0,35.0
+R3_Evaporator_F2_to_Expander_In,Pipe Parts\OF_R3_Evaporator_F2_to_Expander_In_DRAFT.SLDPRT,88.0,306.0,-93.0
+W1_Hot_Pump_to_Evaporator_W1,Pipe Parts\OF_W1_Hot_Pump_to_Evaporator_W1_DRAFT.SLDPRT,152.0,129.0,48.0
+W2_Evaporator_W2_to_Hot_Reservoir,Pipe Parts\OF_W2_Evaporator_W2_to_Hot_Reservoir_DRAFT.SLDPRT,152.0,64.0,-93.0
+HX_Adapter_OD8,Pipe Parts\OF_HX_Adapter_OD8_DRAFT.SLDPRT,88.0,64.0,-113.0
+HX_Adapter_OD12,Pipe Parts\OF_HX_Adapter_OD12_DRAFT.SLDPRT,88.0,306.0,-113.0
+HX_Adapter_OD16,Pipe Parts\OF_HX_Adapter_OD16_DRAFT.SLDPRT,152.0,306.0,-113.0
+HX_Adapter_OD16,Pipe Parts\OF_HX_Adapter_OD16_DRAFT.SLDPRT,152.0,64.0,-113.0
+Condenser_Fan_Wall,Assembly Parts\OF_Condenser_Fan_Wall_DRAFT.SLDPRT,0.0,0.0,-15.0
+Condenser_to_wall_Shroud_DRAFT,Assembly Parts\OF_Condenser_to_wall_Shroud_DRAFT.SLDPRT,0.0,0.0,-15.0
+Wall_mounted_Fan_PROVISIONAL,Components\OF_Wall_mounted_Fan_PROVISIONAL.SLDPRT,0.0,0.0,-15.0
+Fan_guard_DRAFT,Assembly Parts\OF_Fan_guard_DRAFT.SLDPRT,0.0,0.0,-15.0
+Condenser_mounts_DRAFT,Assembly Parts\OF_Condenser_mounts_DRAFT.SLDPRT,0.0,0.0,-15.0
+R4_Expander_to_Air_Condenser,Pipe Parts\OF_R4_Expander_to_Air_Condenser_DRAFT.SLDPRT,-140.0,193.0,-169.0
+R5_Air_Condenser_to_Receiver,Pipe Parts\OF_R5_Air_Condenser_to_Receiver_DRAFT.SLDPRT,-30.0,64.0,255.0
+Air_Cooled_Refrigerant_Condenser_UNSELECTED,Components\OF_Air_Cooled_Refrigerant_Condenser_UNSELECTED.SLDPRT,0,0,-15.0

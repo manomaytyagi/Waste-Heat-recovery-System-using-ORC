@@ -1,0 +1,24 @@
+{
+  "before": {
+    "envelope_mm": [
+      572.0,
+      500.0,
+      687.0
+    ],
+    "plan_area_mm2": 392964.0,
+    "pipe_length_mm": 3071.8280800077396,
+    "bends": 22
+  },
+  "after": {
+    "envelope_mm": [
+      490.0,
+      500.0,
+      672.0
+    ],
+    "plan_area_mm2": 329280.0,
+    "pipe_length_mm": 2926.4389750978635,
+    "bends": 20
+  },
+  "footprint_reduction_percent": 16.2060646776804,
+  "pipe_reduction_percent": 4.732983133271896
+}
